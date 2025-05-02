@@ -79,6 +79,7 @@ h2 {
   font-size: var(--h2-font-size);
   color: #023E8A;
   letter-spacing: -1px;
+  text-align: center;
 }
 
 h3 {
@@ -1148,13 +1149,36 @@ strong {
   h1 {
     font-size: 40px;
   }
-
+  .hero-title{
+    font-size: 30px;
+  }
+  .hero h2{
+    font-size: 25px;
+  }
+  .custom-link {
+    background-color: var(--secondary-color);
+  }
   h2 {
     font-size: 28px;
   }
+  p {
+    margin-left: 2px;
+    margin-right: 2px;
+  }
 
+  .featured-text{
+    text-align: center;
+  }
+
+  .featured-numbers{
+    text-align: center;
+  }
+  .ps-5 {
+    padding-left: 0px !important;
+  }
   h3 {
     font-size: 26px;
+    text-align: center;
   }
 
   h4 {
@@ -1214,7 +1238,7 @@ strong {
     color: var(--secondary-color);
     font-weight: var(--font-weight-bold);
     max-width: 100%;
-    margin-right: 10px;
+    margin-right: 0px;
     padding: 13px 30px;
     display: inline-block;
     display: flex;
