@@ -12,8 +12,8 @@ https://templatemo.com/tm-578-first-portfolio
 -----------------------------------------*/
 :root {
   --white-color:                  #ffffff;
-  --primary-color:                #535da1;
-  --secondary-color:              #14B789;
+  --primary-color:                #023E8A;
+  --secondary-color:              #48CAE4;
   --section-bg-color:             #f9f9f9;
   --dark-color:                   #000000;
   --p-color:                      #717275;
@@ -101,6 +101,7 @@ p {
   color: var(--p-color);
   font-size: var(--p-font-size);
   font-weight: var(--font-weight-normal);
+  text-align: justify;
 }
 
 ul li {
@@ -1182,6 +1183,44 @@ strong {
 
   .hero-image {
     min-width: inherit;
+  }
+  /* ini buat nengahin nomer telpon */
+  .navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+    justify-content: center;
+
+  /* Ini content3 atas*/
+  }
+  .info{
+    display: flex;
+    flex-direction: column;
+  }
+  .isi{
+    display: flex;
+    justify-content: center;
+  }
+  .isi4{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+  }
+  .mb-0{
+    display: flex;
+    justify-content: center;
+  }
+  .profile-small-title {
+    border-right: 1px solid var(--border-color);
+    color: var(--secondary-color);
+    font-weight: var(--font-weight-bold);
+    max-width: 100%;
+    margin-right: 10px;
+    padding: 13px 30px;
+    display: inline-block;
+    display: flex;
+    justify-content: center;
+  }
+  /* Ini content3 bawah */
+  .featured-text {
+    font-size: small;
   }
 }
 
