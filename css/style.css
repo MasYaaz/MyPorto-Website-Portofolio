@@ -596,6 +596,7 @@ strong {
 
 .featured-text {
   color: var(--secondary-color);
+  text-align: left;
 }
 
 .featured-border-bottom {
@@ -947,6 +948,9 @@ strong {
   color: var(--white-color);
 }
 
+.row {
+  justify-content: center;
+}
 
 /*---------------------------------------
   SOCIAL ICON               
