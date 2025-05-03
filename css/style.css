@@ -210,10 +210,6 @@ strong {
   animation: spinner .9s linear infinite;
 }
 
-@-webkit-@keyframes spinner {
-  to {transform: rotate(360deg);
-  }
-}
 
 @keyframes spinner {
   to {transform: rotate(360deg);}
@@ -1253,4 +1249,3 @@ strong {
     font-size: small;
   }
 }
-
