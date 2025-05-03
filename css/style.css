@@ -12,8 +12,8 @@ https://templatemo.com/tm-578-first-portfolio
 -----------------------------------------*/
 :root {
   --white-color:                  #ffffff;
-  --primary-color:                #023E8A;
-  --secondary-color:              #0096C7;
+  --primary-color:                #03045e;
+  --secondary-color:              #48cae4;
   --section-bg-color:             #f9f9f9;
   --dark-color:                   #000000;
   --p-color:                      #717275;
@@ -72,19 +72,19 @@ h6 {
 h1 {
   font-size: var(--h1-font-size);
   letter-spacing: -3px;
-  color: #023E8A;
+  color: var(--dark-color);
 }
 
 h2 {
   font-size: var(--h2-font-size);
-  color: #023E8A;
+  color: var(--dark-color);
   letter-spacing: -1px;
   text-align: center;
 }
 
 h3 {
   font-size: var(--h3-font-size);
-  color: #023E8A;
+  color: var(--dark-color);
 }
 
 h4 {
@@ -559,7 +559,7 @@ strong {
 
 .profile-small-title {
   border-right: 1px solid var(--border-color);
-  color: var(--secondary-color);
+  color: var(--dark-color);
   font-weight: var(--font-weight-bold);
   min-width: 200px;
   margin-right: 10px;
@@ -595,7 +595,7 @@ strong {
 }
 
 .featured-text {
-  color: var(--secondary-color);
+  color: var(--dark-color);
   text-align: left;
 }
 
@@ -764,7 +764,7 @@ strong {
 .projects-tag {
   font-size: var(--menu-font-size);
   font-weight: var(--font-weight-medium);
-  color: var(--secondary-color);
+  color: var(--primary-color);
   text-transform: uppercase;
   margin-bottom: 5px;
 }
