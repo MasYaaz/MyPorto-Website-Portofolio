@@ -1,5 +1,7 @@
 # MyPorto - Web Portofolio (Bootstrap Version)
 
+![Foto](images/foto-web.png)
+
 Halo, Selamat datang diDokumentasi Web Portofolio Perdana Saya
 Ini merupakan web portofolio Pertama yang telah saya buat dengan menggunakan framework Bootstrap
 
