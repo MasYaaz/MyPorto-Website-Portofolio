@@ -521,8 +521,11 @@ https://templatemo.com/tm-578-first-portfolio
     position: absolute;
     z-index: 22;
     top: 0;
-    width: 100%;
     min-width: 400px;
+  }
+
+  .hero-image:hover{
+    width: 70%;
   }
   
   .hero svg {
