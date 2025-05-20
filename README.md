@@ -2,7 +2,7 @@
 
 ![Foto](images/foto-web.png)
 
-Halo, Selamat datang diDokumentasi Web Portofolio Perdana Saya
+Halo, Selamat datang di Dokumentasi Web Portofolio Perdana Saya
 Ini merupakan web portofolio Pertama yang telah saya buat dengan menggunakan framework Bootstrap
 
 ## Framework yang digunakan
@@ -19,8 +19,15 @@ Ini merupakan web portofolio Pertama yang telah saya buat dengan menggunakan fra
 
 ## Overview Web Ini
 
-Web ini adalah web portofolio yang didalamnya terdapat pengenalan tentang diri saya dan juga data diri serta kontak saya.Selain itu, web ini
-juga menjabarkan tentang kemampuan - kemampuan yang saya miliki baik itu pemrograman web, aplikasi, desain grafis dan juga fotografi.Di sini
+Web ini adalah web portofolio yang didalamnya terdapat pengenalan tentang diri saya dan juga data diri serta kontak saya.
+
+![Foto2](images/foto-web2.png)
+
+Selain itu, web ini juga menjabarkan tentang kemampuan - kemampuan yang saya miliki baik itu pemrograman web, aplikasi, desain grafis dan juga fotografi.Di sini
 juga ada link untuk mencari tahu tentang portofolio saya baik itu di Github ataupun Shutterstock.
 
+![Foto3](images/foto-web3.png)
+
 Web ini sudah responsif sehingga tampilannya sudah bagus jika dibuka di smartphone maupun di dekstop.
+
+![Foto4](images/foto-web4.png)
